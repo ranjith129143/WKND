@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/pratice/clientlibs"/>
+    <filter root="/apps/pratice/components"/>
+    <filter root="/apps/pratice/i18n"/>
+</workspaceFilter>
